@@ -1,16 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-11-22T15:11:01+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[比特说]]></title>
+  <link href="http://bittalk.github.io/atom.xml" rel="self"/>
+  <link href="http://bittalk.github.io/"/>
+  <updated>2013-11-22T18:55:02+08:00</updated>
+  <id>http://bittalk.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[nanoac@gmail.com]]></name>
+    <email><![CDATA[bittalk.github@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[关于这里]]></title>
+    <link href="http://bittalk.github.io/blog/2013/11/22/about/"/>
+    <updated>2013-11-22T17:33:12+08:00</updated>
+    <id>http://bittalk.github.io/blog/2013/11/22/about</id>
+    <content type="html"><![CDATA[<div><script src='https://gist.github.com/7597169.js'></script>
+<noscript><pre><code>关于比特说
+=========
+这是我分享比特货币知识和经验的地方，希望能让后来者少走一些弯路。
+
+如果你觉得有用，请打赏一杯咖啡
+
+- BTC: 1PYVJaC8iYAZrcXt6Hz7FTVWnaYywf3vrz
+- LTC: 暂缺
+- XPM: AUnZeohC6xp2aeWUe7WvcyQ48Zbfu4wh9o
+- PTS: Pc7mYTkCyyqrs7nxvcQUQyf4w7nko9ih7F
+
+bittalk.github.io</code></pre></noscript></div>
+
+]]></content>
+  </entry>
   
 </feed>
