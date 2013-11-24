@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "how bitcoin works part 1"
+title: "比特币是如何运行的（一）"
 date: 2013-11-24 21:17:55 +0800
 comments: true
 categories:
@@ -14,5 +14,5 @@ author: nanoac@gmail.com
 ![比特币交易时如何进行的](../images/2013-11-24-how-bitcoin-works-part-1/how-a-bitcoin-transaction-works.jpg)
 
 [bitcoin wiki]: https://zh-cn.bitcoin.it/wiki/%E9%A6%96%E9%A1%B5 "比特币维基百科中文版"
-[bitcoin.org]: http://bitcoin.org "比特币官方网站"
+[bitcoin.org]: http://bitcoin.org/zh_CN/ "比特币官方网站——简体中文"
 
