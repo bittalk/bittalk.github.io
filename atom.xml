@@ -4,7 +4,7 @@
   <title><![CDATA[比特说]]></title>
   <link href="http://bittalk.github.io/atom.xml" rel="self"/>
   <link href="http://bittalk.github.io/"/>
-  <updated>2013-11-24T22:46:12+08:00</updated>
+  <updated>2013-11-24T22:59:22+08:00</updated>
   <id>http://bittalk.github.io/</id>
   <author>
     <name><![CDATA[nanoac@gmail.com]]></name>
@@ -259,11 +259,11 @@ function sendBTC(amount)
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[How Bitcoin Works Part 1]]></title>
+    <title type="html"><![CDATA[比特币是如何运行的（一）]]></title>
     <link href="http://bittalk.github.io/blog/2013/11/24/how-bitcoin-works-part-1/"/>
     <updated>2013-11-24T21:17:55+08:00</updated>
     <id>http://bittalk.github.io/blog/2013/11/24/how-bitcoin-works-part-1</id>
-    <content type="html"><![CDATA[<p>如果我想认真细致的了解比特币，直接打开<a href="http://bitcoin.org" title="比特币官方网站">比特币官网</a>或者去<a href="https://zh-cn.bitcoin.it/wiki/%E9%A6%96%E9%A1%B5" title="比特币维基百科中文版">比特币（Bitcoin）维基百科</a>上细细研读是最合适不过的了，但看图总是更直观一些，不是吗？</p>
+    <content type="html"><![CDATA[<p>如果我想认真细致的了解比特币，直接打开<a href="http://bitcoin.org/zh_CN/" title="比特币官方网站——简体中文">比特币官网</a>或者去<a href="https://zh-cn.bitcoin.it/wiki/%E9%A6%96%E9%A1%B5" title="比特币维基百科中文版">比特币（Bitcoin）维基百科</a>上细细研读是最合适不过的了，但看图总是更直观一些，不是吗？</p>
 
 <p>感谢<a href="http://weibo/rockxie">疯狂小强TTbit</a></p>
 
