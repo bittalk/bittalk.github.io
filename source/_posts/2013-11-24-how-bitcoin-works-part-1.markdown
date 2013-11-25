@@ -3,7 +3,9 @@ layout: post
 title: "比特币是如何运行的（一）"
 date: 2013-11-24 21:17:55 +0800
 comments: true
-categories:
+categories: 
+keywords: 
+description: 
 author: nanoac@gmail.com 
 ---
 

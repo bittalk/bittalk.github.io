@@ -4,6 +4,8 @@ title: "比特币是如何运行的（二）"
 date: 2013-11-24 22:35:32 +0800
 comments: true
 categories: 
+keywords: 
+description: 
 author: nanoac@gmail.com
 ---
 

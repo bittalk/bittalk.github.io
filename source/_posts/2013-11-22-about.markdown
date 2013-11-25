@@ -4,6 +4,8 @@ title: "关于这里"
 date: 2013-11-22 17:33:12 +0800
 comments: true
 categories: 
-author: Ted
+keywords: about, 关于
+description: 关于比特说，分享比特货币知识和经验的
+author: nanoac@gmail.com
 ---
 {% gist 7597169 %}
