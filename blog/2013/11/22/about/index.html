@@ -6,15 +6,11 @@
 <head>
   <meta charset="utf-8">
   <title>关于这里 - 比特说</title>
-  <meta name="author" content="nanoac@gmail.com">
+  <meta name="author" content="bittalk.github@gmail.com">
 
   
-  <meta name="description" content="关于比特说
-=========
-这是我分享比特货币知识和经验的地方，希望能让后来者少走一些弯路。 如果你觉得有用，请打赏一杯咖啡 - BTC: 1PYVJaC8iYAZrcXt6Hz7FTVWnaYywf3vrz
-- LTC: 暂缺
-- XPM: &hellip;">
-  
+  <meta name="description" content="关于比特说，分享比特货币知识和经验的">
+  <meta name="keywords" content="about, 关于">
 
   <!-- http://t.co/dKP3o1e -->
   <meta name="HandheldFriendly" content="True">
@@ -35,6 +31,18 @@
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 
   
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-46015249-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
 
 </head>
 
@@ -47,8 +55,10 @@
 </hgroup>
 
 </header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <nav role="navigation"><ul class="subscription" data-subscription="rss email">
   <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+    <li><a href="bittalk.github@gmail.com" rel="subscribe-email" title="subscribe via email">Email</a></li>
   
 </ul>
   
@@ -91,6 +101,9 @@
 
 <time datetime="2013-11-22T17:33:12+08:00" pubdate data-updated="true">Nov 22<span>nd</span>, 2013</time>
         
+           | <a href="#disqus_thread"
+             data-disqus-identifier="http://bittalk.github.io">Comments</a>
+        
       </p>
     
   </header>
@@ -118,7 +131,7 @@ bittalk.github.io</code></pre></noscript></div>
       
   
 
-<span class="byline author vcard">Posted by <span class="fn">Ted</span></span>
+<span class="byline author vcard">Posted by <span class="fn">nanoac@gmail.com</span></span>
 
       
 
@@ -140,8 +153,10 @@ bittalk.github.io</code></pre></noscript></div>
     
       <div class="sharing">
   
-  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://bittalk.github.io/blog/2013/11/22/about/" data-via="" data-counturl="http://bittalk.github.io/blog/2013/11/22/about/" >Tweet</a>
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://bittalk.github.io/blog/2013/11/22/about/" data-via="nanoac" data-counturl="http://bittalk.github.io/blog/2013/11/22/about/" >Tweet</a>
   
+  
+  <div class="g-plusone" data-size="medium"></div>
   
   
 </div>
@@ -155,6 +170,12 @@ bittalk.github.io</code></pre></noscript></div>
     </p>
   </footer>
 </article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
 
 </div>
 
@@ -179,7 +200,45 @@ bittalk.github.io</code></pre></noscript></div>
   </ul>
 </section>
 
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/bittalk.github@gmail.com">@bittalk.github@gmail.com</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
 
+        github.showRepos({
+            user: 'bittalk.github@gmail.com',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+
+<section class="googleplus">
+  <h1>
+    <a href="https://plus.google.com/108170392367131394579?rel=author">
+      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+      Google+
+    </a>
+  </h1>
+</section>
 
 
 
@@ -190,16 +249,40 @@ bittalk.github.io</code></pre></noscript></div>
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2013 - nanoac@gmail.com -
+  Copyright &copy; 2013 - bittalk.github@gmail.com -
   <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
 </p>
 
 </footer>
   
 
+<script type="text/javascript">
+      var disqus_shortname = 'bittalk';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://bittalk.github.io/blog/2013/11/22/about/';
+        var disqus_url = 'http://bittalk.github.io/blog/2013/11/22/about/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
 
 
 
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
 
 
 
@@ -216,6 +299,11 @@ bittalk.github.io</code></pre></noscript></div>
 
 
 
+# 百度统计
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fc2222ba0ae8573749d2db1eabf162b7b' type='text/javascript'%3E%3C/script%3E"));
+</script>
 
 </body>
 </html>
